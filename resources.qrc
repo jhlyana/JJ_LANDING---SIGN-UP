@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>PIC_log_sign_in.png</file>
+    <file>JJLOGO.png</file>
+    <file>BACKGROUND.png</file>
+  </qresource>
+</RCC>
